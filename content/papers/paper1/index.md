@@ -6,7 +6,7 @@ author: ["Ayden Young","Jeremy West","Peter Christensen"]
 #description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper is in early stages of development, but aiming to have a working abstract and a workshop presentation slide deck available this quarter." 
 cover:
-    image: "housing_disc_picture.jpg"
+    image: "paper1.png"
     alt: "Housing Discrimination, Credit, and Economic Opportunity"
     relative: true
 # editPost:
