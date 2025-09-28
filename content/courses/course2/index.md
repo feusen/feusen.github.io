@@ -19,10 +19,10 @@ disableAnchoredHeadings: false
 
 ## (# of terms TA'd) Course List
 
-PhD level:
+PhD level (no. of quarters):
 + (1) Mathematical Methods for Economic Analysis (econ210b)
 
-Undergraduate level:
+Undergraduate level (no. of quarters):
 + (1) Introductory Macroeconomics (econ2)
 + (1) Introduction to Python for Data Science (econ22p)
 + (2) Intermediate Macroeconomics (econ100b)
