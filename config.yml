@@ -1,4 +1,4 @@
-baseURL: "https://feusen.github.io/hugo-website/" 
+baseURL: "https://feusen.github.io/hugo-website/content/" 
 title: Ayden Young
 theme: PaperMod
 
