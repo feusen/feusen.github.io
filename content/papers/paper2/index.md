@@ -8,7 +8,7 @@ summary: "This paper explores the effects of a bridge maintenance responsibility
 cover:
     image: "minnesota2007.png"
     alt: "Bridge Sufficiency and Shared Maintenance Responsibilities"
-    relative: true
+    relative: false
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Canine Science"
