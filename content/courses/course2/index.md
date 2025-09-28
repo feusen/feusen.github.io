@@ -17,7 +17,7 @@ disableAnchoredHeadings: false
 
 ---
 
-## (# of terms TA'd) Course List
+## Course List
 
 PhD level (no. of quarters):
 + (1) Mathematical Methods for Economic Analysis (econ210b)
