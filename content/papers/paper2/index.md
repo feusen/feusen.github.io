@@ -32,10 +32,10 @@ cover:
 I analyze an empirical application of the provision of public goods within the context of fiscal federalism. Using National Bridge Inventory (NBI) and Federal Highway Administration (FHWA) data on bridge inspections and public roadway spending, I explore the effects of a bridge maintenance responsibility shared between two state/local authorities on the sufficiency and condition ratings of publicly owned bridges carrying public roadways in the United States. Empirically, I quantify this effect with various cross-sectional and panel specifications using data from 1995 to 2015. My findings suggest that border bridges with a shared responsibility have lower sufficiency ratings than bridges without a shared responsibility and this effect is similar across specifications. The findings provide empirical evidence supporting the theoretical under-provision of public goods in the decentralized cross-border provision environment.
 
 ---
-
+<!-- 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
++ [Presentation slides](presentation2.pdf) -->
 
 
 <!-- ---

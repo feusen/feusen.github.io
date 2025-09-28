@@ -4,7 +4,7 @@ title: "Housing Discrimination, Credit, and Economic Opportunity"
 #tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Ayden Young","Jeremy West","Peter Christensen"]
 #description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper is in early stages of development." 
+summary: "This paper is in early stages of development, but aiming to have a working abstract and a workshop presentation slide deck available this quarter." 
 cover:
     image: "housing_disc_picture.jpg"
     alt: "Housing Discrimination, Credit, and Economic Opportunity"
@@ -33,9 +33,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-##### Related material
+<!-- ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
++ [Presentation slides](presentation1.pdf) -->
 <!-- + [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/) -->
 
 
