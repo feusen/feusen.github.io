@@ -8,7 +8,7 @@ summary: "This paper is in early stages of development, but aiming to have a wor
 cover:
     image: "housing_disc_picture.jpg"
     alt: "Housing Discrimination, Credit, and Economic Opportunity"
-    relative: false
+    relative: true
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Oleic Science"
