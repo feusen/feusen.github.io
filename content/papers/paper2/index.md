@@ -29,7 +29,21 @@ cover:
 
 ##### Abstract
 
-I analyze an empirical application of the provision of public goods within the context of fiscal federalism. Using National Bridge Inventory (NBI) and Federal Highway Administration (FHWA) data on bridge inspections and public roadway spending, I explore the effects of a bridge maintenance responsibility shared between two state/local authorities on the sufficiency and condition ratings of publicly owned bridges carrying public roadways in the United States. Empirically, I quantify this effect with various cross-sectional and panel specifications using data from 1995 to 2015. My findings suggest that border bridges with a shared responsibility have lower sufficiency ratings than bridges without a shared responsibility and this effect is similar across specifications. The findings provide empirical evidence supporting the theoretical under-provision of public goods in the decentralized cross-border provision environment.
+Interstate borders create a natural experiment in public goods governance:
+many bridges that cross state lines require two state governments to coordinate on
+maintenance, while otherwise comparable in-state bridges face no such
+coordination requirement. Using the FHWA National Bridge Inventory (1996--2018),
+I apply a match-first/observe-last estimator to compare the long-run sufficiency
+ratings of shared-maintenance border bridges to matched sole-responsibility
+bridges. State highway agency bridges with shared maintenance responsibility
+score approximately 1.2 to 3.1 SR points lower than matched controls, with
+the pooled result robust across a nested sequence of specifications. When
+matching is constrained within state-pair border regions, the effect is
+concentrated among low-traffic crossings ($-$4.1 to $-$5.1 SR points),
+while high-traffic bridges show no significant effect. This pattern is
+consistent with a volunteer's dilemma model in which the coordination failure
+is most severe when neither state has a dominant incentive to champion
+maintenance.
 
 ---
 <!-- 
