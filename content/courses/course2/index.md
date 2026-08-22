@@ -26,7 +26,7 @@ Undergraduate level (no. of quarters):
 + (1) Introductory Macroeconomics (econ2)
 + (1) Introduction to Python for Data Science (econ22p)
 + (2) Intermediate Macroeconomics (econ100b)
-+ (1) Introduction to Econometrics (econ113)
++ (2) Introduction to Econometrics (econ113)
 + (3+) Economic History of the US (econ125)
 + (1) Public Finance (econ150)
 + (3+) Economic Rhetoric: Using Economic Theory and Empirical Evidence in Arguing Policy (econ197)

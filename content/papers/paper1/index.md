@@ -4,7 +4,7 @@ title: "Housing Discrimination, Credit, and Economic Opportunity"
 #tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Ayden Young","Jeremy West","Peter Christensen"]
 #description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper is in early stages of development, but aiming to have a working abstract and a workshop presentation slide deck available this quarter." 
+summary: "This paper documents the effects of racial discrimination in the rental housing market on the credit quality of minority renters who successfully secure housing in dscriminatory neighborhoods, using a large-scale correspondence exerpiment linked to individual credit panel data for California renters." 
 cover:
     image: "housing_disc_picture.jpg"
     alt: "Housing Discrimination, Credit, and Economic Opportunity"
@@ -25,13 +25,13 @@ cover:
 
 --- -->
 
-(Paper work in progress)
+(Draft in preparation)
 
-This paper is in early stages of development; aiming to have a working abstract and workshop presentation slide deck available at the end of this quarter (fall 2025).
+Draft in preparation. Currently working with California Policy Lab (CPL) to move results through the data disclosure process.
 
 ##### Abstract
 
-Housing discrimination can have intense impacts on short-term, long-term, and even intergenerational outcomes in health, education, labor, and crime contributing to racial inequality. This early-stage work seeks to explore how individuals' financial attributes, such as credit score, may "compensate" for demographic-based discrimination in facilitating access to rental housing using UC's Consumer Credit Panel and housing discrimination data generated from the field experiment conducted by Christensen et al. (2021).
+Housing discrimination constrains minority renters' access to residential opportunity. While Black and Hispanic renters exhibit lower average credit scores than white renters, this paper documents an additional consequence: a discrimination tax on credit quality borne by minority renters who successfully navigate discriminatory markets. Linking the largest correspondence experiment in the rental housing market Christensen et al. (2021), conducted across the fifty largest U.S. cities, to individual credit panel data for California renters, I show that Hispanic renters in high-discrimination neighborhoods are more positively selected on credit quality relative to white renters in the same census block. The barrier-countering benefit of higher credit is concentrated in the tails of the credit score distribution: only renters with Very Good or Exceptional credit scores show meaningful reductions in the discrimination penalty, while Poor credit amplifies it. This effect is stronger in lower socioeconomic status neighborhoods, where being in the upper tail of the local credit distribution provides a more powerful signal to landlords. Restricting to census blocks where white, Hispanic, and Black renters all reside reveals the credit quality gradient operates for Hispanic renters but not Black renters when exposed to the same white comparison group, suggesting different mechanisms across groups.
 
 
 ---
