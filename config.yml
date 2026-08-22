@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Ayden Young
-          subtitle: "I am a PhD candidate at the University of California at Santa Cruz. My research focuses on the fields of urban and public economics. I currently work as a Graduate Student Instructor (GSI) and a TA throughout the academic year. Before starting my PhD, I was an intern economist at the Federal Deposit Insurance Corporation (FDIC) and a commericial routesetter for First Ascent in Chicago."
+          subtitle: "I am a PhD candidate at the University of California at Santa Cruz. My research focuses on the fields of urban and public economics. I currently work as a Lecturer and a TA throughout the academic year. Before starting my PhD, I was an intern economist at the Federal Deposit Insurance Corporation (FDIC) and a commericial routesetter for First Ascent in Chicago."
           imageUrl: "dripping_in_ice2.jpg"
           imageWidth: 240
           imageHeight: 240
