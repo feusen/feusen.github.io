@@ -1,5 +1,6 @@
 ---
 title: "Bridge Sufficiency and Shared Maintenance Responsibilities" 
+weight: 2
 #date: 2004-12-28
 #tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
 author: ["Ayden Young and Justin Marion"]
