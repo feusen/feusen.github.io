@@ -1,13 +1,13 @@
 ---
-title: "Housing Discrimination, Credit, and Economic Opportunity"
+title: "Does Strong Credit Overcome Racial Discrimination in Rental Housing?"
 #date: 2020-02-02
 #tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Ayden Young","Jeremy West","Peter Christensen"]
 #description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper documents the effects of racial discrimination in the rental housing market on the credit quality of minority renters who successfully secure housing in dscriminatory neighborhoods, using a large-scale correspondence exerpiment linked to individual credit panel data for California renters." 
+summary: "Combining a large correspondence experiment with credit records for California renters, we show that where landlords discriminate more, the credit score gap between Black and Hispanic renters who secure housing and white renters moving into the same neighborhood is smaller, suggesting that strong credit can partially offset discrimination." 
 cover:
     image: "housing_disc_picture.jpg"
-    alt: "Housing Discrimination, Credit, and Economic Opportunity"
+    alt: "Does Strong Credit Overcome Racial Discrimination in Rental Housing?"
     relative: true
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
@@ -17,21 +17,16 @@ cover:
 
 ---
 
-<!-- ##### Download
+##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](hd_draft.pdf)
 
---- -->
 
-(Draft in preparation)
-
-Draft in preparation. Currently working with California Policy Lab (CPL) to move results through the data disclosure process.
+---
 
 ##### Abstract
 
-Housing discrimination constrains minority renters' access to residential opportunity. While Black and Hispanic renters exhibit lower average credit scores than white renters, this paper documents an additional consequence: a discrimination tax on credit quality borne by minority renters who successfully navigate discriminatory markets. Linking the largest correspondence experiment in the rental housing market Christensen et al. (2021), conducted across the fifty largest U.S. cities, to individual credit panel data for California renters, I show that Hispanic renters in high-discrimination neighborhoods are more positively selected on credit quality relative to white renters in the same census block. The barrier-countering benefit of higher credit is concentrated in the tails of the credit score distribution: only renters with Very Good or Exceptional credit scores show meaningful reductions in the discrimination penalty, while Poor credit amplifies it. This effect is stronger in lower socioeconomic status neighborhoods, where being in the upper tail of the local credit distribution provides a more powerful signal to landlords. Restricting to census blocks where white, Hispanic, and Black renters all reside reveals the credit quality gradient operates for Hispanic renters but not Black renters when exposed to the same white comparison group, suggesting different mechanisms across groups.
+Racial discrimination constrains Black and Hispanic renters' access to housing. We ask whether stronger economic credentials can help renters to overcome these racial barriers. Linking experimental measures of neighborhood-level discrimination to individual credit records for California renters, we find evidence that strong credit partially offsets racial barriers: the credit score gap between Black and Hispanic movers and white movers into the same Census block is smaller where discriminatory barriers are larger, consistent with landlords being more selective when considering Black and Hispanic applicants. The offsetting effect is pronounced only for renters with Very Good or Exceptional credit scores, and is stronger in lower-credit neighborhoods, where a high score more favorably stands out. Collectively, our findings support that while positive economic signals are inadequate to fully counteract racial discrimination in rental housing, there are meaningful offsetting benefits for those with sufficiently strong financial circumstances.
 
 
 ---
