@@ -1,5 +1,6 @@
 ---
 title: "Does Strong Credit Overcome Racial Discrimination in Rental Housing?"
+weight: 1
 #date: 2020-02-02
 #tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Ayden Young","Jeremy West","Peter Christensen"]
@@ -20,6 +21,8 @@ cover:
 ##### Download
 
 + [Paper](hd_draft.pdf)
+
+<iframe src="hd_draft.pdf" width="100%" height="800px" style="border:none;"></iframe>
 
 
 ---
