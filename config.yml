@@ -56,6 +56,16 @@ params:
           enabled: true
           title: Ayden Young
           subtitle: "I am a PhD candidate at the University of California at Santa Cruz. My research focuses on the fields of urban and public economics. I currently work as a Lecturer and a TA throughout the academic year. Before starting my PhD, I was an intern economist at the Federal Deposit Insurance Corporation (FDIC) and a commericial routesetter for First Ascent in Chicago."
+          jobMarket: |
+            **I am on the 2026–27 job market.**
+
+            **Job Market Paper:** [Does Strong Credit Overcome Racial Discrimination in Rental Housing?](/papers/paper1/) ([PDF](/papers/paper1/Young_JMP.pdf)) (with Peter Christensen and Jeremy West)
+
+            Linking a correspondence experiment to California credit records, we find that the credit gap between Black and Hispanic renters and white renters in the same neighborhood is smaller where landlords discriminate more, suggesting that strong credit may partially offset discrimination.
+
+            **Fields:** Household finance, real estate, public economics\
+            **Expected completion:** June 2027\
+            **References:** Justin Marion · Peter Christensen · Jeremy West
           imageUrl: "dripping_in_ice2.jpg"
           imageWidth: 240
           imageHeight: 240
@@ -86,18 +96,18 @@ params:
         #  url: https://www.zoom.us/my/igelfeld
         #- name: Location
         #  url: location/
-        - name: Office Hours
-          url: officehours/
         #- name: Google Scholar
         #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         #- name: Substack
         #  url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@aydenyoung2769
         #- name: Twitter
         #  url: https://x.com/pmichaillat
         #- name: Bluesky
         #  url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: Office Hours
+          url: officehours/
+        - name: YouTube
+          url: https://www.youtube.com/@aydenyoung2769
 
     assets:
         disableScrollBarStyle: true
