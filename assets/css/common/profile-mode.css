@@ -44,6 +44,27 @@
 .button:hover {
     background: var(--aydencolor);
 }
+
 .job-market {
-    margin-top: 16px;
+    margin: 20px 0;
+    padding: 16px 20px;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--aydencolor);
+    border-radius: var(--radius);
+}
+
+.job-market p {
+    margin: 0 0 10px;
+}
+
+.job-market a:not(.button) {
+    color: var(--aydencolor);
+    font-weight: var(--semibold);
+}
+
+.job-market .button {
+    display: inline-block;
+    margin: 4px 0 12px;
+    padding: 6px 14px;
 }
