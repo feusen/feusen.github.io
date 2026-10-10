@@ -20,15 +20,15 @@ cover:
 
 ##### Abstract
 
-Racial discrimination constrains Black and Hispanic renters' access to housing. We ask whether stronger economic credentials can help renters to overcome these racial barriers. Linking experimental measures of neighborhood-level discrimination to individual credit records for California renters, we find evidence that strong credit partially offsets racial barriers: the credit score gap between Black and Hispanic movers and white movers into the same Census block is smaller where discriminatory barriers are larger, consistent with landlords being more selective when considering Black and Hispanic applicants. The offsetting effect is pronounced only for renters with Very Good or Exceptional credit scores, and is stronger in lower-credit neighborhoods, where a high score more favorably stands out. Collectively, our findings support that while positive economic signals are inadequate to fully counteract racial discrimination in rental housing, there are meaningful offsetting benefits for those with sufficiently strong financial circumstances.
+Racial discrimination constrains Black and Hispanic renters' access to housing. We ask whether stronger economic credentials can help renters to overcome these racial barriers. Linking experimental measures of neighborhood-level discrimination to individual credit records for California renters, we find evidence that strong credit partially offsets racial barriers: the credit score gap between Black and Hispanic movers and white movers into the same Census block is smaller where discriminatory barriers are larger, consistent with landlords being more selective when considering Black and Hispanic applicants. The offsetting effect is concentrated among renters with Very Good or Exceptional credit scores, and is stronger in lower-credit neighborhoods, where a high score more favorably stands out. Collectively, our findings support that while positive economic signals are inadequate to fully counteract racial discrimination in rental housing, there are meaningful offsetting benefits for those with sufficiently strong financial circumstances.
 
 
 ---
 ##### Download
 
-+ [Paper](hd_draft.pdf)
++ [Paper](Young_JMP.pdf)
 
-<iframe src="hd_draft.pdf" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="Young_JMP.pdf" width="100%" height="800px" style="border:none;"></iframe>
 
 
 ---

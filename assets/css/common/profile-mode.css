@@ -44,3 +44,6 @@
 .button:hover {
     background: var(--aydencolor);
 }
+.job-market {
+    margin-top: 16px;
+}
