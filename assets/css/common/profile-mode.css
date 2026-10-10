@@ -50,7 +50,7 @@
     padding: 16px 20px;
     background: var(--entry);
     border: 1px solid var(--border);
-    border-left: 4px solid var(--darkpurple);
+    border-left: 4px solid var(--aydencolor);
     border-radius: var(--radius);
 }
 
@@ -59,7 +59,7 @@
 }
 
 .job-market a:not(.button) {
-    color: var(--darkpurple);
+    color: var(--aydencolor);
     font-weight: var(--semibold);
 }
 
