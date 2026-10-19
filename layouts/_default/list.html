@@ -15,11 +15,17 @@
 </header>
 {{- end }}
 
-{{- if .Content }}
+{{- /* Content after an <!--after-list--> marker renders below the page list */}}
+{{- $parts := split .Content "<!--after-list-->" }}
+{{- $before := index $parts 0 | safeHTML }}
+{{- $after := "" }}
+{{- if gt (len $parts) 1 }}{{ $after = index $parts 1 | safeHTML }}{{ end }}
+
+{{- if $before }}
 <div class="post-content">
   {{- if not (.Param "disableAnchoredHeadings") }}
-  {{- partial "anchored_headings.html" .Content -}}
-  {{- else }}{{ .Content }}{{ end }}
+  {{- partial "anchored_headings.html" $before -}}
+  {{- else }}{{ $before }}{{ end }}
 </div>
 {{- end }}
 
@@ -76,6 +82,14 @@
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
+{{- end }}
+
+{{- with $after }}
+<div class="post-content">
+  {{- if not ($.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" . -}}
+  {{- else }}{{ . }}{{ end }}
+</div>
 {{- end }}
 
 {{- if gt $paginator.TotalPages 1 }}
