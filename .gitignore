@@ -1,2 +1,5 @@
 # Hugo build artifacts
 .hugo_build.lock
+
+# Build output; CI rebuilds it on deploy
+public/
