@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Macroeconomics (Econ100b, UCSC)"
+title: "Intermediate Macroeconomics (Econ 100B, UCSC)"
 date: 2025-08-01
 term: "Summer 2025"
 weight: 3
@@ -8,7 +8,7 @@ aliases: ["/courses/course1/"]
 #tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
 author: "Ayden Young"
 #description: "This undergraduate course serves as one of the upper-level degree requirements for economics students at UCSC." 
-summary: "Instructor of Record for Econ100b: one of the upper-level degree requirements for economics students at UCSC." 
+summary: "Instructor of Record for Econ 100B: one of the upper-level degree requirements for economics students at UCSC." 
 #editPost:
 #    URL: "https://github.com/pmichaillat/hugo-website"
 #    Text: "Course portal"
